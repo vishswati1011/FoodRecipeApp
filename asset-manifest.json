@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactTaskFirst/static/css/main.7f49b210.chunk.css",
+    "main.js": "/ReactTaskFirst/static/js/main.73aa2c64.chunk.js",
+    "main.js.map": "/ReactTaskFirst/static/js/main.73aa2c64.chunk.js.map",
+    "runtime-main.js": "/ReactTaskFirst/static/js/runtime-main.f4b7e495.js",
+    "runtime-main.js.map": "/ReactTaskFirst/static/js/runtime-main.f4b7e495.js.map",
+    "static/js/2.51db85aa.chunk.js": "/ReactTaskFirst/static/js/2.51db85aa.chunk.js",
+    "static/js/2.51db85aa.chunk.js.map": "/ReactTaskFirst/static/js/2.51db85aa.chunk.js.map",
+    "static/js/3.f2756c6e.chunk.js": "/ReactTaskFirst/static/js/3.f2756c6e.chunk.js",
+    "static/js/3.f2756c6e.chunk.js.map": "/ReactTaskFirst/static/js/3.f2756c6e.chunk.js.map",
+    "index.html": "/ReactTaskFirst/index.html",
+    "static/css/main.7f49b210.chunk.css.map": "/ReactTaskFirst/static/css/main.7f49b210.chunk.css.map",
+    "static/js/2.51db85aa.chunk.js.LICENSE.txt": "/ReactTaskFirst/static/js/2.51db85aa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4b7e495.js",
+    "static/js/2.51db85aa.chunk.js",
+    "static/css/main.7f49b210.chunk.css",
+    "static/js/main.73aa2c64.chunk.js"
+  ]
+}
